@@ -1,7 +1,7 @@
 # CTFs
 
 - [CyberDefenders Malware Traffic Analysis 1](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/MTA1/Cyberdefenders%20-%20Malware%20Traffic%20Analysis%201.md)
-- [CyberDefenders Malware Traffic Analysis 1 - SO](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/MTA1/Cyberdefenders%20-%20Malware%20Traffic%20Analysis%201%20using%20Security%20Onion.md)
+- [CyberDefenders Malware Traffic Analysis 1 - Security Onion](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/MTA1/Cyberdefenders%20-%20Malware%20Traffic%20Analysis%201%20using%20Security%20Onion.md)
 - [CyberDefenders Malware Traffic Analysis 2](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/MTA2/Cyberdefenders%20-%20Malware%20Traffic%20Analysis%202.md)
 - [CyberDefenders Malware Traffic Analysis 4](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/MTA4/Cyberdefenders%20-%20Malware%20Traffic%20Analysis%204.md)
 - [CyberDefenders Malware Traffic Analysis 5](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/MTA5/Cyberdefenders%20-%20Malware%20Traffic%20Analysis%205.md)
