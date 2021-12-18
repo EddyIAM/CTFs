@@ -9,5 +9,4 @@
 - [CyberDefenders EscapeRoom](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/EscapeRoom/Cyberdefenders%20-%20EscapeRoom.md)
 - [CyberDefenders PacketMaze](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/PacketMaze/Cyberdefenders%20-%20PacketMaze.md)
 - [CyberDefenders Ulysses](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/Ulysses/Cyberdefenders%20-%20Ulysses.md)
-- [CyberDefenders HoneyBot](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/HoneyBot/Cyberdefenders%20-%20HoneyBot.md)
-- 
+- [CyberDefenders HoneyBot](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/HoneyBot/Cyberdefenders%20-%20HoneyBOT.md)
