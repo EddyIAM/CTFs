@@ -10,4 +10,4 @@
 - [CyberDefenders PacketMaze](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/PacketMaze/Cyberdefenders%20-%20PacketMaze.md)
 - [CyberDefenders Ulysses](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/Ulysses/Cyberdefenders%20-%20Ulysses.md)
 - [CyberDefenders HoneyBot](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/HoneyBot/Cyberdefenders%20-%20HoneyBOT.md)
-- [CyberDefenders Insider](https://github.com/EddyIAM/CTFs/CTFs/blob/main/CyberDefenders/Insider/Cyberdefenders%20-%20Insider.md)
+- [CyberDefenders Insider](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/Insider/Cyberdefenders%20-%20Insider.md)
