@@ -123,8 +123,6 @@ Karen is a security professional looking for a new job. A company called "TAAUSA
     Tools such as AccessData’s Registry Viewer will decode this information for you automatically,
     ```
 
-    ![flag14](/CyberDefenders/HireMe/images/Flag14.png)
-
 15. What version of Chrome is installed on the machine?
 
     **Flag: 72.0.3626.121**
