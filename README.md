@@ -13,4 +13,5 @@ Completed;
 - [CyberDefenders Ulysses](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/Ulysses/Cyberdefenders%20-%20Ulysses.md)
 - [CyberDefenders HoneyBot](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/HoneyBot/Cyberdefenders%20-%20HoneyBOT.md)
 - [CyberDefenders Insider](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/Insider/Cyberdefenders%20-%20Insider.md)
-- [CyberDefenders HireMe](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/HireMe/Cyberdefenders%20-%20HireMe%20.md)
+- [CyberDefenders HireMe](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/HireMe/Cyberdefenders%20-%20HireMe.md)
+- [CyberDefenders Hammered](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/Hammered/Cyberdefenders-%20Hammered.md)

@@ -17,7 +17,7 @@ Karen is a security professional looking for a new job. A company called "TAAUSA
 - Autopsy
 - RegistryExplorer
 - LEcmd
-- Regripper 
+- Regripper
 
 ## Analysis
 
