@@ -3,7 +3,7 @@
 - **Challenge Name: [Hammered]**
 - **Date: [11/03/2022]**
 - **URL: [https://cyberdefenders.org/blueteam-ctf-challenges/42]**
-- **Status:[Active]**
+- **Status:[Complete]**
 
 ***
 
