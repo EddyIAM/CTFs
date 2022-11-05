@@ -15,3 +15,4 @@ Completed;
 - [CyberDefenders Insider](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/Insider/Cyberdefenders%20-%20Insider.md)
 - [CyberDefenders HireMe](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/HireMe/Cyberdefenders%20-%20HireMe.md)
 - [CyberDefenders Hammered](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/Hammered/Cyberdefenders%20-%20Hammered.md)
+- [CyberDefenders HawkEye](https://github.com/EddyIAM/CTFs/blob/main/CyberDefenders/HawkEye/Cyberdefenders%20-%20HawkEye.md)

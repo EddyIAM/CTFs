@@ -1,4 +1,4 @@
-# Challenge Report for xxxxxx
+# Challenge Report for Hammered
 
 - **Challenge Name: [Hammered]**
 - **Date: [11/03/2022]**
@@ -30,7 +30,7 @@ Thanks, th3c0rt3x for reviewing the challenge.
     **Flag:4.2.4-1ubuntu3**
 
     ```text
-    Foudn in dmesg; [    0.000000] Linux version 2.6.24-26-server (buildd@crested) (gcc version 4.2.4 (Ubuntu 4.2.4-1ubuntu3)) #1 SMP Tue Dec 1 18:26:43 UTC 2009 (Ubuntu 2.6.24-26.64-server)
+    Found in dmesg; [    0.000000] Linux version 2.6.24-26-server (buildd@crested) (gcc version 4.2.4 (Ubuntu 4.2.4-1ubuntu3)) #1 SMP Tue Dec 1 18:26:43 UTC 2009 (Ubuntu 2.6.24-26.64-server)
     ```
 
 3. What is the name of the compromised account?
