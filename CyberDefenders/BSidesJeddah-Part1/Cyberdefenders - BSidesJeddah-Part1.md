@@ -121,7 +121,6 @@ As a security consultant, a phishing attack attributed to a popular APT group ta
     Date: Fri, 1 Oct 2021 12:31:54 +0000
     ```
 
-
 14. What is the version of the program used to send the email?
 
     **Flag: 1.56**
@@ -152,7 +151,7 @@ As a security consultant, a phishing attack attributed to a popular APT group ta
 
 17. The malicious document file contains a URL to a malicious HTML file. Provide the URL for this file.
 
-    **Flag: http://192.168.112.128/word.html**
+    **Flag: <http://192.168.112.128/word.html>**
 
     ```bash
     $ zipdump.py web\ server.docx
@@ -182,8 +181,7 @@ As a security consultant, a phishing attack attributed to a popular APT group ta
 
     **Flag:EnhancedMetaFile**
 
- 
-    ```
+    ```bash
     $ zipdump.py -s10  web\ server.docx -d | xmldump.py pretty
     <?xml version="1.0" ?>
     <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
@@ -206,7 +204,7 @@ As a security consultant, a phishing attack attributed to a popular APT group ta
 
 20. The malicious HTML contains a js code that points to a malicious CAB file. Provide the URL to the CAB file?
 
-    **Flag: http://192.168.112.128/word.cab**
+    **Flag: <http://192.168.112.128/word.cab>**
 
     In Wireshark go to File -> Export Objects -> Http and find the cab.  Follow the stream.
 
